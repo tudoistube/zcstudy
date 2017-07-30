@@ -1,10 +1,9 @@
-ZCstudy  
+# zcodingMaster
 ===================================================================
 
-## Branch Description  
+## C study practice  
 
-### zcodingMaster [코딩강사마스터과정 at 소프트웨어 놀이터](http://cafe.naver.com/gubass/8209) 
-
+### Practised sources from a book [시나공 2017 정보처리기사 실기 1권 실무 알고리즘 응용 3장 기본알고리즘](http://cafe.gilbut.co.kr/it/qna/qnaList.aspx?sergubun1=001000000)    
     
 책 보면서 실습한 소스임.  
 공부하면서 올리는 것이어서 틀린 부분이 있을수도 있음(알려주시면 반영하겠음)  
